@@ -1,0 +1,15 @@
+package lowLevelDesign.ObserverPattern.Observable;
+
+import lowLevelDesign.ObserverPattern.Observer.NotificationAlertObserver;
+
+public interface StockesObservable {
+    public void add(NotificationAlertObserver observer);
+
+    public void remove(NotificationAlertObserver observer);
+
+    public void notifySubscribers();
+
+    public void setStocksCount(int newStockAdded);
+
+    public int getStockCount();
+}
