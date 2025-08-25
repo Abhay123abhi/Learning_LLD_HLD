@@ -1,4 +1,6 @@
 package lowLevelDesign.ElevatorDesign;
 
-public class Direction {
+public enum  Direction {
+    UP,
+    DOWN;
 }

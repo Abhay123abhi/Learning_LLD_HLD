@@ -1,7 +1,7 @@
-package lowLevelDesign.DecoratorDesignPattern.Decorator;
+package lowLevelDesign.DesignPattern.StructuralPatterns.DecoratorDesignPattern.Decorator;
 
 
-import lowLevelDesign.DecoratorDesignPattern.BaseClass.Pizza;
+import lowLevelDesign.DesignPattern.StructuralPatterns.DecoratorDesignPattern.BaseClass.Pizza;
 
 public abstract class PizzaDecorator extends Pizza {
 

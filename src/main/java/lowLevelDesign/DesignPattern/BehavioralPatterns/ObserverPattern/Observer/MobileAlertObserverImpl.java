@@ -1,7 +1,7 @@
-package lowLevelDesign.ObserverPattern.Observer;
+package lowLevelDesign.DesignPattern.BehavioralPatterns.ObserverPattern.Observer;
 
 
-import lowLevelDesign.ObserverPattern.Observable.StockesObservable;
+import lowLevelDesign.DesignPattern.BehavioralPatterns.ObserverPattern.Observable.StockesObservable;
 
 public class MobileAlertObserverImpl implements  NotificationAlertObserver{
 

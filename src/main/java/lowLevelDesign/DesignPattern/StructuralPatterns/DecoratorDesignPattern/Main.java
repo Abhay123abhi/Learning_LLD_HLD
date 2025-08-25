@@ -1,9 +1,9 @@
-package lowLevelDesign.DecoratorDesignPattern;
+package lowLevelDesign.DesignPattern.StructuralPatterns.DecoratorDesignPattern;
 
 
-import lowLevelDesign.DecoratorDesignPattern.BaseClass.MargheritaPizza;
-import lowLevelDesign.DecoratorDesignPattern.BaseClass.Pizza;
-import lowLevelDesign.DecoratorDesignPattern.Decorator.Mushroom;
+import lowLevelDesign.DesignPattern.StructuralPatterns.DecoratorDesignPattern.BaseClass.MargheritaPizza;
+import lowLevelDesign.DesignPattern.StructuralPatterns.DecoratorDesignPattern.BaseClass.Pizza;
+import lowLevelDesign.DesignPattern.StructuralPatterns.DecoratorDesignPattern.Decorator.Mushroom;
 
 public class Main {
     public static void main(String[] args) {

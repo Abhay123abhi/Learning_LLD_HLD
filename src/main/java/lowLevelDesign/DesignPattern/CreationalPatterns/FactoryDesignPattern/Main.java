@@ -1,4 +1,4 @@
-package lowLevelDesign.FactoryDesignPattern;
+package lowLevelDesign.DesignPattern.CreationalPatterns.FactoryDesignPattern;
 
 public class Main {
     public static void main(String[] args) {

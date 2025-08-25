@@ -1,4 +1,4 @@
-package lowLevelDesign.DecoratorDesignPattern.BaseClass;
+package lowLevelDesign.DesignPattern.StructuralPatterns.DecoratorDesignPattern.BaseClass;
 
 public class FarmHouse extends Pizza{
 

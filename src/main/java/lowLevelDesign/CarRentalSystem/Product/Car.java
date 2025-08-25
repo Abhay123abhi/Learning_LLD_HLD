@@ -1,4 +1,4 @@
 package lowLevelDesign.CarRentalSystem.Product;
 
-public class Car {
+public class Car extends Vehicle{
 }

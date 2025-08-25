@@ -1,11 +1,11 @@
-package lowLevelDesign.ObserverPattern;
+package lowLevelDesign.DesignPattern.BehavioralPatterns.ObserverPattern;
 
 
-import lowLevelDesign.ObserverPattern.Observable.IphoneObservableImpl;
-import lowLevelDesign.ObserverPattern.Observable.StockesObservable;
-import lowLevelDesign.ObserverPattern.Observer.EmailAlertObserverImpl;
-import lowLevelDesign.ObserverPattern.Observer.MobileAlertObserverImpl;
-import lowLevelDesign.ObserverPattern.Observer.NotificationAlertObserver;
+import lowLevelDesign.DesignPattern.BehavioralPatterns.ObserverPattern.Observable.IphoneObservableImpl;
+import lowLevelDesign.DesignPattern.BehavioralPatterns.ObserverPattern.Observable.StockesObservable;
+import lowLevelDesign.DesignPattern.BehavioralPatterns.ObserverPattern.Observer.EmailAlertObserverImpl;
+import lowLevelDesign.DesignPattern.BehavioralPatterns.ObserverPattern.Observer.MobileAlertObserverImpl;
+import lowLevelDesign.DesignPattern.BehavioralPatterns.ObserverPattern.Observer.NotificationAlertObserver;
 
 public class Store {
     public static void main(String[] args) {

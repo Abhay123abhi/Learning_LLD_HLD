@@ -1,7 +1,7 @@
-package lowLevelDesign.ObserverPattern.Observable;
+package lowLevelDesign.DesignPattern.BehavioralPatterns.ObserverPattern.Observable;
 
 
-import lowLevelDesign.ObserverPattern.Observer.NotificationAlertObserver;
+import lowLevelDesign.DesignPattern.BehavioralPatterns.ObserverPattern.Observer.NotificationAlertObserver;
 
 import java.util.ArrayList;
 import java.util.List;

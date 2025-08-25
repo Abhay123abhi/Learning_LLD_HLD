@@ -1,4 +1,4 @@
-package lowLevelDesign.CarRentalSystem;
+package lowLevelDesign.CarRentalSystem.Product;
 
 public enum VehicleType {
     CAR,

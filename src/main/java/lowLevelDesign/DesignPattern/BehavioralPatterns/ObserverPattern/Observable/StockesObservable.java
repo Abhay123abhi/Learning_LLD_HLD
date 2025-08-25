@@ -1,6 +1,6 @@
-package lowLevelDesign.ObserverPattern.Observable;
+package lowLevelDesign.DesignPattern.BehavioralPatterns.ObserverPattern.Observable;
 
-import lowLevelDesign.ObserverPattern.Observer.NotificationAlertObserver;
+import lowLevelDesign.DesignPattern.BehavioralPatterns.ObserverPattern.Observer.NotificationAlertObserver;
 
 public interface StockesObservable {
     public void add(NotificationAlertObserver observer);
